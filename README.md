@@ -1,1 +1,1 @@
-# SCrapy-course
+# Scrapy-course
